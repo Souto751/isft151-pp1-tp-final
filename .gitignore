@@ -4,3 +4,6 @@
 // Código
 *.hpp
 *.cpp
+
+// App Data
+data/**

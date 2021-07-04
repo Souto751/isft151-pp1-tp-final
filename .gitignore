@@ -1,0 +1,6 @@
+// Archivos ejecutables
+*.exe
+
+// Código
+*.hpp
+*.cpp

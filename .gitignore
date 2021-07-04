@@ -7,3 +7,6 @@
 
 // App Data
 data/**
+
+// Visual Studio Code
+.vscode/
